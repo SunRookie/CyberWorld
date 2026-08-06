@@ -163,41 +163,9 @@ Name  |  Description
 ### CTFs
 Name    |    Description
 ----    |    ----
-[Vulnhub](https://www.vulnhub.com/) | site hosts a ton of different vulnerable Virtual Machine images, download and get hacking
-[Hack The Box](https://www.hackthebox.gr/en/login) | Pen testing labs hosting over 39 vulnerable machines with two additional added every month
-[Over the wire](http://overthewire.org/wargames/) | A CTF that's based on progressive levels for each lab, the users SSH in, no account recquired
-[Hack.me](https://hack.me/) | lets you build/host/attack vulnerable web apps
-[Hack this site!](https://www.hackthissite.org/) | an oldy but goodie, account required, users start at low levels and progress in difficulty
-[TryThis0ne](http://trythis0ne.com) | a free project that offers you to challenge yourself in different subjects, such as hacking, programming, cracking, reversing and much more…
-[hackr.org](https://www.hackr.org/) | Great CTF
-[Google's XSS game](https://xss-game.appspot.com/) | XSS challenges, and potentially a chance to get paid!
-[Google's CTF 2018](https://capturetheflag.withgoogle.com/) | An archive of Google's CTF of 2018 with beginners tasks.
-[wechall](https://www.wechall.net/challs) | an index of other challenge sites. Sort of global ranking site for challengers.
-[Hacker test](http://www.hackertest.net/) | similar to "hackthissite", no account required.
-[Ma's reversing](http://3564020356.org/) | You think you're a hacker? You think you know everything that there is about computers? You love encryption and information hiding? Or do you just love brain-melting puzzles / riddles and everything is too easy for you? Then this site is for you
-[Exploit exercises](https://exploit-exercises.com/) | hosts 5 fulnerable virtual machines for you to attack, no account required
-[Stereotyped Challenges](https://chall.stypr.com/) | war game for "offensive security experts who are willing to overcome situations of getting stuck in breaking into web services or web-based solutions"
-[Mod-X](http://www.mod-x.co.uk/main.php) | Mod-X is a fictional online game. In Mod-X you will become one of the Mod-X 'agents' and have to solve any tasks that the Mod-X team give you. As you will see the story revolves around a break in to some of the Mod-X systems, and you are the only one who can beat the intruder.
-[pwnable.tw](http://pwnable.tw/) | hosts 27 challenges accompanied with writeups, account required
-[pwnable.kr](http://pwnable.kr/) | Don't let the cartoon characters fool you, this is a serious CTF site that will teach you a lot, account required
-[Hacker Gateway](https://www.hackergateway.com/) | ctfs covering steganography, cryptography, and web challengs, account required
-[gracker.org](http://gracker.org/) | Good Luck! the journey begins...
-[root-me](https://www.root-me.org/?lang=en) | The fast, easy, and affordable way to train your hacking skills.
-[ThisIsLegal](https://thisislegal.com/) |  a hacker wargames site with much more - such as forums and tutorials.
-[microcorruption.com](https://microcorruption.com/login) | Embedded Security CTF 
-[Pentest Practice](https://www.pentestpractice.com/) | account based Pentest practice, free to sign up, but there's also a pay-as-you-go feature
-[RoseCode](http://www.javaist.com/rosecode/) | Math and programming challenges
-[Pentest.training](https://pentest.training) | lots of various labs/VMS for you to try and hack, registry is optional.
-[hackburger.ee](http://hackburger.ee/) | hosts a number of web hacking challenges, account required
-[Crackmes.de Archive (2011-2015)](https://tuts4you.com/download.php?view.3152) | a reverse engineering information Repo, started in 2003
-[SmashTheStack](http://smashthestack.org/wargames.html) | hosts various challenges, similar to OverTheWire, users must SSH into the machines and progress in levels
-[Hacksplaining](https://www.hacksplaining.com/) | a clickthrough security informational site, very good for beginners.
-[Ringzer0 Team](https://ringzer0team.com/challenges) | an account based CTF site, hosting over 272 challenges
-[Shellter Labs](https://shellterlabs.com/en/) | account based infosec labs, they aim at making these activities social
-[The cryptopals crypto challenges](http://cryptopals.com/) | A bunch of CTF challenges, all focused on cryptography.
-[The enigma group](https://www.enigmagroup.org/) | web application security training, account based, video tutorials
-[Pentestit](https://lab.pentestit.ru/) | acocunt based  CTF site, users have to install open VPN and get credentials
-[ROP Emporium](https://ropemporium.com/) | Return Oriented Programming challenges
+
+
+
 [OWASP Security Shepherd](https://security-shepherd.ctf365.com/login.jsp) | None
 [CTFLearn](https://ctflearn.com/) | an account-based ctf site, where users can go in and solve a range of challenges
 [CTFs write-ups](https://github.com/ctfs) | a collection of writeups from various CTFs, organized by
