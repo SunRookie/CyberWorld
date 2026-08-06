@@ -178,7 +178,6 @@ Name    |    Description
 [Exploit exercises](https://exploit-exercises.com/) | hosts 5 fulnerable virtual machines for you to attack, no account required
 [Stereotyped Challenges](https://chall.stypr.com/) | war game for "offensive security experts who are willing to overcome situations of getting stuck in breaking into web services or web-based solutions"
 [Mod-X](http://www.mod-x.co.uk/main.php) | Mod-X is a fictional online game. In Mod-X you will become one of the Mod-X 'agents' and have to solve any tasks that the Mod-X team give you. As you will see the story revolves around a break in to some of the Mod-X systems, and you are the only one who can beat the intruder.
-[PentesterLab](https://pentesterlab.com/) | hosts a variety of exercises as well as various "bootcamps" focused on specific activities
 [pwnable.tw](http://pwnable.tw/) | hosts 27 challenges accompanied with writeups, account required
 [pwnable.kr](http://pwnable.kr/) | Don't let the cartoon characters fool you, this is a serious CTF site that will teach you a lot, account required
 [Hacker Gateway](https://www.hackergateway.com/) | ctfs covering steganography, cryptography, and web challengs, account required
