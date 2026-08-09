@@ -140,34 +140,25 @@ Name  |  Description
 ### YouTube Channels
 Name  |  Description
 ----  |  ----
-[Treehouse](https://www.youtube.com/user/gotreehouse) | an online school that teaches technology. Treehouse has courses on hundreds of topics including how to build a website, how to build a web app, how to build a mobile app, and how to start a business
-[LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) | Lots of brief-to-medium instructional vids, covering things like buffer overflows and exploit writing, regular posts.
-[TheNewBoston](https://www.youtube.com/user/thenewboston/) | Tons of computer related tutorials
-[Hak5](https://www.youtube.com/user/Hak5Darren) | podcast-style videos covering various topics, has a forum, "metasploit-minute" video series could be useful
-[The Coding Train](https://www.youtube.com/user/shiffman) | "creative coding" video tutorials every week. Subjects covered range from the basics of programming languages like JavaScript (with p5.js) and Java (with Processing) to generative algorithms like physics simulation, computer vision, and data visualization
-[Linus Tech Tips](https://www.youtube.com/user/LinusTechTips) | entertaining videos about technology, including tech reviews, showcases and other content
-[techquickie](https://www.youtube.com/user/Techquickie) | Learn about the latest cool technology in only a couple minutes! 
-[numberphile](https://www.youtube.com/user/numberphile) | ideos about numbers - it's that simple. Videos by Brady Haran 
-[computerphile](https://www.youtube.com/user/Computerphile) | Videos all about computers and computer stuff. Sister channel of Numberphile.
-[iExplo1t](https://www.youtube.com/channel/UCx0HClQ_cv0sLNOVhoO2nxg/videos) | lots of screenshot vids aimed at novices
-[HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) | regular posts, medium length screenshot vids, with dialog
-[Sourcefire](https://www.youtube.com/user/SourcefireInc/featured) | lots of brief videos covering topics like botnets, DDoS ~5 minutes each
-[Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g) | focus on creating videos for aspiring ethical hackers, computer scientists, and the infosec community
 
 ## Train
-### Project Ideas
-- [Beginner projects list](https://github.com/jorgegonzalez/beginner-projects)
-- [Mega Project List](https://github.com/karan/Projects)
-- [build your own x](https://github.com/danistefanovic/build-your-own-x/)
-
-### CTFs
-Name    |    Description
-----    |    ----
 
 
 
-[OWASP Security Shepherd](https://security-shepherd.ctf365.com/login.jsp) | None
-[CTFLearn](https://ctflearn.com/) | an account-based ctf site, where users can go in and solve a range of challenges
-[CTFs write-ups](https://github.com/ctfs) | a collection of writeups from various CTFs, organized by
-[CTF365](https://ctf365.com/) | account based ctf site, awarded by Kaspersky, MIT, T-Mobile
-[Participating Challenge Sites](http://www.wechall.net/active_sites/all/by/site_avg/DESC/page-1) | aims at creating a universal ranking for CTF participants
+# Down The Rabbit Hole
+
+More reading and watching material.  
+You should also look at other resources from all categories.
+
+## Youtube Channels
+
+Name | Description
+---- | -----------
+[computerphile](https://www.youtube.com/user/Computerphile) | Videos all about computers and computer stuff. Sister channel of Numberphile.
+[numberphile](https://www.youtube.com/user/numberphile) | ideos about numbers - it's that simple. Videos by Brady Haran 
+[Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g) | focus on creating videos for aspiring ethical hackers, computer scientists, and the infosec community
+[Linus Tech Tips](https://www.youtube.com/user/LinusTechTips) | entertaining videos about technology, including tech reviews, showcases and other content
+[techquickie](https://www.youtube.com/user/Techquickie) | Learn about the latest cool technology in only a couple minutes! 
+[Hak5](https://www.youtube.com/user/Hak5Darren) | podcast-style videos covering various topics, has a forum, "metasploit-minute" video series could be useful
+[HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) | regular posts, medium length screenshot vids, with dialog
+[Sourcefire](https://www.youtube.com/user/SourcefireInc/featured) | lots of brief videos covering topics like botnets, DDoS ~5 minutes each (quite old)

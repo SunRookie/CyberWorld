@@ -3,15 +3,18 @@
 ## General Reading
 Name | Description
 ---- | -----------
-[Hacksplaining](https://www.hacksplaining.com/) | a clickthrough security informational site, very good for beginners.
+[Hacksplaining](https://www.hacksplaining.com/) | A clickthrough security informational site, very good for beginners.
+[CTF Handbook](https://ctf101.org/) | Learn the basics of CTFs. How to play? What is each category? Also, gives some tips.
 
 ## Challaenges
-Name | Desctiprion | Account?
+Name | Descriprion | Account?
 ---- | ----------- | --------
 [CTF365](https://github.com/sixstars/CTF365) | A list of challenges from different CTFs for beginers with writeups | No
 [Hack The Box](https://www.hackthebox.com/) | A collection of different vulnerable machines at different difficulty level, from beginer to advanced. Machines are added every month | Free
-[CyLab Academy](https://learn.cylabacademy.org/) (Formerly PicoCTF) - A collection of CTFs hosted by Carnegie Mellon University | Free
+[Cyber Rangers](https://app.cyberranges.com/)| A collection of different scenarious accessed through vpn access. | Free
+[CyLab Academy](https://learn.cylabacademy.org/) | (Formerly PicoCTF) - A collection of CTFs hosted by Carnegie Mellon University | Free
 [Over The Wire](http://overthewire.org/wargames/) | A collection of progressive level CTFs hosted on a SSH server | No
+[CTFLearn](https://ctflearn.com/) | an account-based ctf site, where users can go in and solve a range of challenges | Free
 [Hacker 101](https://ctf.hacker101.com/) | A CTF by HackerOne | Free
 [Hack this site!](https://www.hackthissite.org/) | an oldy but goodie, users start at low levels and progress in difficulty | Free
 [Smash The Stack](https://www.smashthestack.org/main.html) | Hosts various challenges, similar to Over The Wire, using ssh to login into remote machines. | No
@@ -30,5 +33,12 @@ Name | Desctiprion | Account?
 Name | Description
 ---- | -----------
 [Pentest.training](https://pentest.training) | lots of various labs/VMS for you to try and hack, registry is optional.
+[CTF Time](https://ctftime.org/) | A comprehensive list of past, present and future CTFs and CTF events, including a scoreboard for teams.
 
 ## Walkthroughs
+
+Name | Description
+---- | -----------
+[THE BIG LIST](https://gprivate.com/6lu5v) | The BIGGEST list of writeups
+[CTFs write-ups](https://github.com/ctfs) | a collection of writeups from various CTFs (a bit old)
+[The Shy Hat](https://www.youtube.com/@theshyhat) | Mainly a walkthrough of CTF challenges, also livestreams the full thing. Very approachable for newcomers
