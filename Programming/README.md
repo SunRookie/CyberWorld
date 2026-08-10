@@ -24,4 +24,5 @@ Name | Description
 Name | Description
 ---- | -----------
 [Awesome C](https://github.com/kozross/awesome-c) | A curated list of awesome C frameworks, libraries, resources and other shiny things.
+[BOOT.DEV](https://www.boot.dev/) | A site with a lot of tutorials in the software engineering area.
 
