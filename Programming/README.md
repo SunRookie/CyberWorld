@@ -1,5 +1,23 @@
 # Programming
 
+## Language Tutorials
+- [Roadmap.sh](https://roadmap.sh/) - A curated list of guides and tutorials focussed on programming.
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/), Written by Shay Howe - A simple and comprehensive guide dedicated to helping beginners learn HTML and CSS.
+- [Learn JavaScript in 30 days](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+
+## Concepts Tutorials
+- [Nand2Tetris](https://www.nand2tetris.org/course) - From NAND gates to building tetris
+- [Malloc tutorial](https://danluu.com/malloc-tutorial/)
+- [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
+- [Crafting Interpreters](https://craftinginterpreters.com/contents.html)
+- [build your own react](https://github.com/hexacta/didact)
+- [Build a simple database](https://cstack.github.io/db_tutorial/)
+- [Bitwise](https://github.com/pervognsen/bitwise) - An educational project to create a software/hardware stack for a computer from scratch.
+- [A TDD approach for building a simple microprocessor model in Python](https://joaoventura.net/blog/2017/simple-microprocessor/)
+- [Learn OpenGL](https://learnopengl.com)
+- [Implementing a Key-Value Store](https://codecapsule.com/2012/11/07/implementing-a-key-value-store-part-1-what-are-key-value-stores-and-why-implement-one/)
+
+
 ## Project Ideas
 - [Beginner projects list](https://github.com/jorgegonzalez/beginner-projects)
 - [Mega Project List](https://github.com/karan/Projects)
